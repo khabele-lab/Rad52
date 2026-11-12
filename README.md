@@ -20,6 +20,8 @@ Yukihide Ota¹˒²˒³,Maia L. Elizagaray¹˒², Vijayalaxmi Gupta¹˒², Bisiay
 
 ⁷ Division of Reproductive Sciences, University of Colorado, Aurora, CO, USA
 
+DOI: https://insight.jci.org/articles/view/205126
+
 ### Data
 All gene count data (all.gene_counts.xlsx) are available in the data folder of this repository. The raw sequencing data have been deposited in the Gene Expression Omnibus (GEO) under accession number **GSE302064**.
 
